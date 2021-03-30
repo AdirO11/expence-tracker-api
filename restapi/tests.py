@@ -1,9 +1,10 @@
-from django.test import TestCase
+# from django.test import TestCase
 from unittest import TestCase
 import time
 
 
 def two_int_sum(a, b):
+    """sunming a and b"""
     return a + b
 
 
